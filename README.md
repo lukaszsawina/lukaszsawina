@@ -1,9 +1,11 @@
 # Hi👋
 <br />
 
-- 🌱 I’m currently learning <img align="left" alt="HTML5" width="26px" title="HTML5" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" /> and Wordpress 
-- 🔭 I’m currently working on ...
 
+<ul>
+    <li> 🌱 I’m currently learning <img align="left" alt="HTML5" width="26px" title="HTML5" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" /> and Wordpress </ul>
+    <li>🔭 I’m currently working on ...</ul>
+</ul>
 
 
 
