@@ -3,7 +3,7 @@
 
 
 <ul>
-    <li> 🌱 I’m currently learning <img align="left" alt="HTML5" width="26px" title="HTML5" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" /> and Wordpress </ul>
+    <li><span> 🌱 I’m currently learning </span><img align="left" alt="HTML5" width="26px" title="HTML5" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" /><span> and Wordpress</span> </ul>
     <li>🔭 I’m currently working on ...</ul>
 </ul>
 
