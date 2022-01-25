@@ -3,8 +3,10 @@
 
 
 <ul>
-    <li><span> 🌱 I’m currently learning </span><img align="left" alt="HTML5" width="26px" title="HTML5" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" /><span> and Wordpress</span> </ul>
-    <li>🔭 I’m currently working on ...</ul>
+    <li>🌱 I’m currently learning C# and Wordpress </li>
+    <li>🔭 I'm not working on anything special at the moment, just college stuff</li>
+    <li>🤔 I’m looking for help with how to become better developer</li>
+    <li>📫 How to reach me: ...</li>
 </ul>
 
 
@@ -26,19 +28,3 @@
 <img align="left" alt="Terminal" width="26px" title="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-
-
-<!--
-**lukaszsawina/lukaszsawina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
