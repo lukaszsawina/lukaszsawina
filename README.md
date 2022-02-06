@@ -8,6 +8,7 @@
 </ul>
 
 ### Language:
+<img align="left" alt="C#" width="32px" title="C#" src="https://user-images.githubusercontent.com/73522641/152369612-d3035878-62c7-4662-bc72-4294432af88f.png" />
 <img align="left" alt="HTML5" width="26px" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" title="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Bootstrap" width="26px" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
@@ -18,6 +19,7 @@
 <br />
 
 ### Tools:
+<img align="left" alt="Visual Studio" width="32px" title="Visual Studio" src="https://user-images.githubusercontent.com/73522641/152371093-670b8c0d-66b1-4328-8964-6da7e4bc7732.png" />
 <img align="left" alt="Git" width="26px" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Linux" width="26px" title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
