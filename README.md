@@ -1,7 +1,7 @@
 # Hi there!👋
 <br />
 <ul>
-    <li>🌱 I’m currently learning C# and Wordpress </li>
+    <li>🌱 I’m currently learning C# </li>
     <li>🔭 I'm not working on anything special at the moment, just college stuff</li>
     <li>🤔 I’m looking for help with how to become better developer</li>
     <li>📫 How to reach me: lukisaw01@gmail.com</li>
