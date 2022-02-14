@@ -6,7 +6,7 @@
     - 🤔 I am looking for help in becoming a better developer
     - 📫 How to reach me: 
         * lukisaw01@gmail.com
-        * [Linkedin](https://www.linkedin.com/in/%C5%82ukasz-sawina-513227229/)
+        
 
 
 ### Language:
