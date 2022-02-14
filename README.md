@@ -4,10 +4,16 @@
 <ul>
     <li>🌱 I’m currently learning C#</li>
     <li>🔭 I'm working on my portfolio projects</li>
-    <li>🤔 I am looking for help in becoming a better developer</li>
-    <li>📫 How to reach me: lukisaw01@gmail.com </li>
-    
+    <li>🤔 I am looking for help in becoming a better developer</li>    
 </ul>           
+
+### Connect with me:
+
+
+
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 
 ### Language:
