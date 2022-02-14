@@ -8,7 +8,7 @@
     <li>📬 How to reach me: </li>
     <ul>
         <li><a href="mailto:lukisaw01@gmail.com">lukisaw01@gmail.com</a></li>
-        
+        <li><a href="https://www.linkedin.com/in/%C5%82ukasz-sawina-513227229/">Linkedin</a></li>
     </ul>
 </ul>           
 
