@@ -9,7 +9,6 @@
     <ul>
         <li>Mail: <a href="mailto:lukisaw01@gmail.com">lukisaw01@gmail.com</a></li>
         <li><a href="https://www.linkedin.com/in/%C5%82ukasz-sawina-513227229/">LinkedIn</a></li>
-        
     </ul>
 </ul>           
 
