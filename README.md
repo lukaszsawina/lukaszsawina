@@ -1,12 +1,13 @@
 # Hi there!👋
 <br />
 
-    - 🌱 I’m currently learning C#
-    - 🔭 I'm working on my portfolio projects
-    - 🤔 I am looking for help in becoming a better developer
-    - 📫 How to reach me: 
-        * lukisaw01@gmail.com
-        
+<ul>
+    <li>🌱 I’m currently learning C#</li>
+    <li>🔭 I'm working on my portfolio projects</li>
+    <li>🤔 I am looking for help in becoming a better developer</li>
+    <li>📫 How to reach me: lukisaw01@gmail.com </li>
+    
+</ul>           
 
 
 ### Language:
