@@ -4,17 +4,13 @@
 <ul>
     <li>🌱 I’m currently learning C#</li>
     <li>🔭 I'm working on my portfolio projects</li>
-    <li>🤔 I am looking for help in becoming a better developer</li>    
+    <li>🤔 I am looking for help in becoming a better developer</li>   
+    <li>📬 How to reach me: </li>
+    <ul>
+        <li><a href="mailto:lukisaw01@gmail.com">lukisaw01@gmail.com</a></li>
+        
+    </ul>
 </ul>           
-
-### Connect with me:
-
-
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-
 
 ### Language:
 <img align="left" alt="C#" width="32px" title="C#" src="https://user-images.githubusercontent.com/73522641/152369612-d3035878-62c7-4662-bc72-4294432af88f.png" />
