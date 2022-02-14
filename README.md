@@ -1,11 +1,13 @@
 # Hi there!👋
 <br />
-<ul>
-    <li>🌱 I’m currently learning C# </li>
-    <li>🔭 I'm not working on anything special at the moment, just college stuff</li>
-    <li>🤔 I’m looking for help with how to become better developer</li>
-    <li>📫 How to reach me: lukisaw01@gmail.com</li>
-</ul>
+
+    - 🌱 I’m currently learning C#
+    - 🔭 I'm working on my portfolio projects
+    - 🤔 I am looking for help in becoming a better developer
+    - 📫 How to reach me: 
+        * lukisaw01@gmail.com
+        * [Linkedin](https://www.linkedin.com/in/%C5%82ukasz-sawina-513227229/)
+
 
 ### Language:
 <img align="left" alt="C#" width="32px" title="C#" src="https://user-images.githubusercontent.com/73522641/152369612-d3035878-62c7-4662-bc72-4294432af88f.png" />
