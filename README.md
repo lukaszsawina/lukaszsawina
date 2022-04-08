@@ -5,7 +5,7 @@ During my studies I worked in C, C++, I know SQL and I can work with relational 
 <ul>
     <li>🌱 I’m currently learning C#</li>
     <li>🔭 I'm working on my portfolio projects and improving my programming skills</li>
-    <li>🤔 I am interested in embedded systems, </li>   
+    <li>🤔 I am interested in embedded systems, desktop and web applications</li>   
     <li>📬 How to reach me: </li>
     <ul>
         <li>Mail: <a href="mailto:lukisaw01@gmail.com">lukisaw01@gmail.com</a></li>
