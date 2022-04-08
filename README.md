@@ -1,14 +1,18 @@
-# Hi there!👋
+# Hi!👋
 <br />
 
+### About me:
+I am a first-year student of computer science in engineering at AGH. I'm just starting to get into programming seriously. Currently, I know the basics, but I am expanding my knowledge very quickly.</ br>
+During my studies I worked in C, C++, I know SQL and I can work with relational databases.
 <ul>
-    <li>🌱 I’m currently learning C#</li>
-    <li>🔭 I'm working on my portfolio projects</li>
-    <li>🤔 I am looking for help in becoming a better developer</li>   
+    <li>🌱 I’m currently learning C# (How to create desktop app)</li>
+    <li>🔭 I'm working on my portfolio projects and improving my programming skills</li>
+    <li>🤔 I am interested in embedded systems, </li>   
     <li>📬 How to reach me: </li>
     <ul>
         <li>Mail: <a href="mailto:lukisaw01@gmail.com">lukisaw01@gmail.com</a></li>
         <li><a target="_blank" href="https://www.linkedin.com/in/%C5%82ukasz-sawina-513227229/">LinkedIn</a></li>
+        <li><a target="_blank" href="https://www.facebook.com/lukisaw01/">Facebook</a></li>
     </ul>
 </ul>           
 
