@@ -1,6 +1,6 @@
 # Hi there!👋
 ### About me:
-I am a first-year student of computer science in engineering at AGH. I'm just starting to get into programming seriously. Currently, I know the basics, but I am expanding my knowledge very quickly.
+I am a secound-year student of computer science in engineering at AGH. I'm just starting to get into programming seriously. Currently, I know the basics, but I am expanding my knowledge very quickly.
 </br>
 During my studies I worked in C, C++, I know SQL and I can work with relational databases. 
 <ul>
