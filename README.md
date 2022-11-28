@@ -9,8 +9,11 @@ During my studies I worked in C, C++, I know SQL and I can work with relational 
     <li>🤔 I am interested in embedded systems, desktop and web applications</li>   
     <li>📬 How to reach me: </li>
     <ul>
-	@@ -17,13 +17,17 @@ During my studies I worked in C, C++, I know SQL and I can work with relational
-
+        <li>Mail: <a href="mailto:lukisaw01@gmail.com">lukisaw01@gmail.com</a></li>
+        <li><a target="_blank" href="https://www.linkedin.com/in/%C5%82ukasz-sawina-513227229/">LinkedIn</a></li>
+        <li><a target="_blank" href="https://www.facebook.com/lukisaw01/">Facebook</a></li>
+    </ul>
+</ul>  
 ### Language:
 <img align="left" alt="C#" width="48px" title="C#" src="https://user-images.githubusercontent.com/73522641/152369612-d3035878-62c7-4662-bc72-4294432af88f.png" />
 <img align="left" alt="C++" width="48px" title="C++" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
