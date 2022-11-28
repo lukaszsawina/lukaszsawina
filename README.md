@@ -24,7 +24,7 @@ During my studies I worked in C, C++, I know SQL and I can work with relational 
 <img align="left" alt="SQL" width="48px" title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="48px" title="MYSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-</br>
+</br></br>
 
 ### Tools:
 <img align="left" alt="Visual Studio" width="48px" title="Visual Studio" src="https://user-images.githubusercontent.com/73522641/152371093-670b8c0d-66b1-4328-8964-6da7e4bc7732.png" />
