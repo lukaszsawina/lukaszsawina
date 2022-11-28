@@ -14,7 +14,6 @@ During my studies I worked in C, C++, I know SQL and I can work with relational 
         <li><a target="_blank" href="https://www.facebook.com/lukisaw01/">Facebook</a></li>
     </ul>
 </ul>           
-
 ### Language:
 <img align="left" alt="C#" width="48px" title="C#" src="https://user-images.githubusercontent.com/73522641/152369612-d3035878-62c7-4662-bc72-4294432af88f.png" />
 <img align="left" alt="HTML5" width="48px" title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
