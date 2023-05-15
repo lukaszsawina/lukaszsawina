@@ -4,7 +4,7 @@ I am a student of computer science in engineering at AGH. I am interested in cre
 </br>
 During my studies I worked in C, C++, I know SQL and I can work with relational databases. 
 <ul>
-    <li>🌱 I’m currently learning C# (ASP .net)</li>
+    <li>🌱 I’m currently learning C# (ASP.net)</li>
     <li>🔭 I'm working on my portfolio projects, science club projects and improving my programming skills</li>
     <li>🤔 I am interested in embedded systems, desktop and web applications</li>   
     <li>📬 How to reach me: </li>
