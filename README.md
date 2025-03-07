@@ -1,11 +1,8 @@
 ## Hi there!👋
 ### About me:
-I am a student of computer science in engineering at AGH. I am interested in creating projects based on Arduino and developing modern applications.
+I am a Software Developer with a degree in Computer Science in Engineering at AGH. I specialize in C# and have experience with REST APIs, WPF, Dapper, Entity Framework, and ASP.NET.
 </br>
-During my studies I worked in C, C++, C# I know SQL and I can work with relational databases. 
 <ul>
-    <li>🌱 I’m currently learning <img alt="React" width="18px" title="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />React and <img alt="Python" width="18px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />Python</li>
-    <li>🔭 I'm working on my portfolio projects, science club projects and improving my programming skills</li>
     <li>🤔 I am interested in embedded systems, desktop and web applications</li>   
     <li>📬 How to reach me: </li>
     <ul>
